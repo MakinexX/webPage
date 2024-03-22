@@ -7,7 +7,20 @@ section{
     background-color: aquamarine;
     height: 300px;
 }
+section img{
+    height: 250px;
+    width: 600px;
+    margin-left: 370px;
+    position: relative;
+}
 section h1{
     text-align: center;
-    
+}
+section.div :left{
+    background-color: #ffffff;
+}
+footer{
+    background-color: black;
+    color:  #ffffff;
+    height: 150px;
 }
