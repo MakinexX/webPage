@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -5,8 +6,11 @@
     font-size: 20px;
 }
 section{
-    background-color: aquamarine;
+    background: url('images/gnome656-1920x1080\ \(1\).jpg');
+    background-size: cover;
+    background-position: center;
     height: 300px;
+
 }
 section img{
     height: 250px;
@@ -14,7 +18,9 @@ section img{
     margin-left: 370px;
 }
 section h1{
+    color: white;
     text-align: center;
+    font-size: 40px;    
 }
 .menu ul {
     padding: 20px;
