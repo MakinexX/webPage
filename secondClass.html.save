@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Class</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body class="bodyTwo">
+    <header>
+        <nav class="navbar">
+            <a href="web.html">Home</a>
+            <a href="firstClass.html">First Class</a>
+            <a href="#">Third Class</a>
+            <a href="#">Fourth Class</a>
+            <a href="#">Fifth Class</a>
+        </nav>
+
+    </header>
+    <section>
+        <h1>Clova Carecall the call center based on AI</h1>
+        <div class="noticia">
+            <p>In south Korea has two bigger problems:  the ageign population and  birth rate, which is the lowest in the world at  0.7 children per woman. For 2025, 20% of population expected to be over 65 years old. Something what korean government has described as a “demographic catastrophe”.
+                The loneliness problem: In south Korea, the old age and loneliness come together, wich can be fatal for elderly. The 2022 figures show that 21.8% of people over 65 years of age live alone. This has gotten worse, since many of these people die at home and no one finds out until days or weeks later.
+                Companies like Naver (one of the largest Korean Internet conglomerates) have created CLOVA CareCall, a kind of call center based on artificial intelligence that calls the elderly and maintains conversations with them. This initiative was launched during the COVID-19 pandemic to collect information on the condition and symptoms of seniors, but has since evolved to become a national senior support service. 70 local governments use this calling system, most to curb solitary deaths.
+                <br>
+           
+                <a href="https://www.bbc.com/mundo/articles/c7203n8nxkeo">If you wana read more about this new, can visit this webpage: </a></p>
+           
+           
+        <img src="" alt="">
+        </div>            
+    </section>
+   
+   <section>
+    <h1>'DOCTOR GOOGLE' CONSULTS 75.7% OF THIRTY-SOMETHINGS IN SPAIN.</h1>
+    <div class="noticia" >
+        <p>
+            55.5% of women and 51% of men ask health questions online.
+    
+            The mobile phone and computer have become an essential accessory in everyday life and, it could be said, it is another extension of the human body. What's more, on average, we spend more than six hours surfing the web. 75.7% of people between 30 and 39 years of age make health consultations to 'Doctor Google' on a regular basis.
+            
+            Interest in health searches grows from adolescence to thirties. In fact, Dr. Google consults more than half of adolescents between the ages of 16 and 19 and 73.5% of people between the ages of 20 and 29, according to an analysis by the apablo.com agency.
+            However, almost five out of ten Spaniards between 60 and 69 years of age and only 19.2% of those over 70 years of age consult about health issues on the Internet. This is due to the digital divide that exists in this population group. 
+            
+            In addition, women consult 'Doctor Google' more than men. Specifically, 55.5% and 51% respectively, according to the survey. Likewise, 66.5% of households where a couple with children live together and 56.9% of single parents search the Internet for health. While only 45.2% of people living alone or 46% of spouses perform this action. 
+            
+            On the other hand, 80.7% of people with a doctoral degree consult their health doubts on the Internet, while only one in ten Spaniards who did not finish their primary education ask 'Doctor Google'.
+            
+            Regarding purchasing power, those who ask the most are those with the greatest capacity. 73.8% of people with an income of more than 900 do not carry out this information.
+        
+            <br>
+            <a href="https://www.eleconomista.es/salud/noticias/12444742/09/23/-el-doctor-google-pasa-consulta-al-757-de-los-treinteaneros-en-espana.html ">If you wana read more about this new, can visit this webpage:</a>
+        </p>
+        <img src="images/mia.jpg" alt="">
+    </div>
+
+
+   </section>
+
+   <section>
+    <div class="sjjdjd" alt="tercera noticia">
+      <p>
+
+"If companies want to remain competitive in the coming years, it is essential that executives understand the potential impact of generative AI and develop strategies to incorporate it into their operations." This implementation process would entail, among other consequences, a native transformation of AI to take advantage of its full potential and value.
+
+By sector of activity, in the field of technology, media and telecommunications (TMT), new use cases of generative AI are expected to move between 380,000 and 690,000 million dollars (350,000 and 636,000 million euros): between 60,000 and 100,000 million in telecommunications, between 80,000 and 130,000 million in media and between 240,000 and 460,000 million in high technology. In the automotive sector, experts from the International Drivers Association estimate this value at $215 billion by 2025.
+
+Artificial intelligence and increased sales are almost synonymous concepts in the telecommunications sector. That's the opinion of nearly two-thirds of executives at large telecom operators in a recent survey conducted by Nvidia. Of the roughly 400 respondents, nearly one-fifth said revenue growth exceeds 10% in some areas. The preferred goal for companies in this sector is to use AI to improve the customer experience, while others apply it to reduce costs and improve productivity.
+    <br>
+    <a href="https://www.eleconomista.es/tecnologia/noticias/12744311/03/24/los-negocios-que-no-incorporen-la-ia-pueden-quedar-obsoletos-en-2027.html">If you wana read more about this new, can visit this webpage:</a>
+
+    
+
+
+    </a>
+      </p>
+
+    </div>
+
+
+
+   </section>
+
+    
+    
+    
+    
+    
+
+
+</body>
+</html>
